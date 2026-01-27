@@ -1,0 +1,14 @@
+{
+  "name": "scal3-arena",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'No build required'",
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "@notionhq/client": "^2.2.14",
+    "@supabase/supabase-js": "^2.39.0"
+  }
+}
